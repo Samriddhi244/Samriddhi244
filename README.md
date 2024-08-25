@@ -40,7 +40,7 @@ I am currently enhancing my skills in machine learning, delving into advanced al
 
 ## 📫 Let's Connect
 
-- **Email**: (mailto:samriddhibhalekar2@gmail.com)
+- **Email**: (samriddhibhalekar2@gmail.com)
 - **LinkedIn**: (www.linkedin.com/in/samriddhi-bhalekar-8b1687242)
 - **GitHub**: (https://github.com/Samriddhi244)
 
