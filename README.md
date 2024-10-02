@@ -33,8 +33,8 @@ I am currently enhancing my skills in machine learning, delving into advanced al
 
 ## 📈 GitHub Stats
 
-![Samriddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Samriddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samriddhi244&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhi244&layout=compact&theme=radical)
 
 ---
 
